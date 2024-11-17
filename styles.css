@@ -1,0 +1,38 @@
+/* Style for .color-example class */
+.color-example {
+    color: blue; /* Set text color to blue */
+    background-color: #ffcc00; /* Set background color to yellow using hex code */
+    border: 2px solid red; /* Set border color to red with thickness of 2px */
+    padding: 10px;
+}
+
+/* Style for .header-example class */
+.header-example {
+    font-size: 2em; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    color: darkgreen; /* Set text color to dark green */
+}
+
+/* Style for .list-example class */
+.list-example {
+    list-style-type: square; /* Change bullet points to square */
+    color: purple; /* Set text color to purple */
+    padding-left: 20px;
+}
+
+/* Style for .text-example class */
+.text-example {
+    font-family: 'Courier New', Courier, monospace; /* Set a monospace font */
+    font-size: 1.5em; /* Increase font size */
+    text-transform: capitalize; /* Capitalize the text */
+    text-decoration: underline; /* Underline the text */
+}
+
+/* Style for .div-example class */
+.div-example {
+    background-color: #e0f7fa; /* Set light cyan background color */
+    border: 3px solid #00695c; /* Set dark cyan border */
+    padding: 20px;
+    width: 50%;
+    margin: 20px auto;
+}
